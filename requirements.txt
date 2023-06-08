@@ -1,0 +1,6 @@
+transformers
+sentencepiece
+tensorflow==2.7.0
+stanza
+tensorflow-addons 
+nltk
