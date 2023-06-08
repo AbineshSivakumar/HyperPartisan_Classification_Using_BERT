@@ -1,7 +1,10 @@
 transformers
 sentencepiece
-tensorflow==2.7.0
+tensorflow
 stanza
 tensorflow-addons
 nltk
 ipykernel
+tensorflow_hub
+datasets
+huggingface_hub
