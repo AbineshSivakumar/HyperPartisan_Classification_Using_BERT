@@ -5,6 +5,5 @@ stanza
 tensorflow-addons
 nltk
 ipykernel
-tensorflow_hub
 datasets
 huggingface_hub
