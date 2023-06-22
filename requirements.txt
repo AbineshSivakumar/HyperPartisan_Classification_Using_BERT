@@ -7,3 +7,6 @@ nltk
 ipykernel
 datasets
 huggingface_hub
+tensorflow_hub
+scikit-learn
+matplotlib
