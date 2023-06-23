@@ -13,7 +13,7 @@ source ~/.bashrc
 conda init
 
 # Create a new environment named "speech" with Python 3.6.13
-conda create -n speech python=3.6.13
+conda create -n speech python=3.7
 
 # Activate the "speech" environment
 conda activate speech
