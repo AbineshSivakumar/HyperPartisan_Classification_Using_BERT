@@ -12,8 +12,8 @@ source ~/.bashrc
 # Activate the conda base environment
 conda init
 
-# Create a new environment named "speech" with Python 3.6.13
-conda create -n speech python=3.6.13
+# Create a new environment named "speech" with Python 3.7
+conda create -n nlp python=3.7
 
-# Activate the "speech" environment
-conda activate speech
+# Activate the "nlp" environment
+conda activate nlp
