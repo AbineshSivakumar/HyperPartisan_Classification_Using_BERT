@@ -29,7 +29,7 @@ We condense the documents into summaries of 512 tokens each using the Hugging Fa
 We refer to each 512-token segment of a document and introduce a 'stride' that represents the shared tokens between consecutive segments. This method allows us to handle documents of varying lengths.
 
 ## Detailed Report
-A comprehensive report detailing the methods, experiments, and results is available in this repository. Please refer to the [report](https://github.com/AbineshSivakumar/HyperPartisan_Classification_Using_BERT/tHyperpartisan-Classification-report.pdf) for a complete understanding of the project.
+A comprehensive report detailing the methods, experiments, and results is available in this repository. Please refer to the [report](Hyperpartisan-Classification-report.pdf) for a complete understanding of the project.
 
 
 
