@@ -32,7 +32,6 @@ We refer to each 512-token segment of a document and introduce a 'stride' that r
 A comprehensive report detailing the methods, experiments, and results is available in this repository. Please refer to the [report](Hyperpartisan-Classification-report.pdf) for a complete understanding of the project.
 
 
-
 ## Outcome
 
 - **Hyperpartisan Classification System:** Developed a robust system capable of classifying news articles into hyperpartisan or non-hyperpartisan categories.
