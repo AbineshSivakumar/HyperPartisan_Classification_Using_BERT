@@ -4,7 +4,7 @@ This repository contains the code and resources for developing a hyperpartisan n
 
 ## Objective
 
-The primary goal of this project is to accurately classify news articles as hyperpartisan or non-hyperpartisan. The project explores and compares the performance of various transformer models and assesses the impact of incorporating Part-of-Speech (POS) tagging on classification accuracy.
+The primary goal of this project is to accurately classify news articles as hyperpartisan or non-hyperpartisan. The project explores and compares the performance of various transformer models and assesses the impact of incorporating Part-of-Speech (POS) tagging on classification accuracy. 
 
 ## Tools and Models
 
